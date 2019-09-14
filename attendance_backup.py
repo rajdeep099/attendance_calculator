@@ -180,8 +180,6 @@ if __name__ == "__main__" :
     PresentDays.grid(row=6, column=1)
     AbsentDays.grid(row=7, column=1)
 
-    
-
     # Buttons
     b1 = Button(f, text='Quit', command=quit, activebackground = '#f00000')
     b1.grid(row=9, column=1)
