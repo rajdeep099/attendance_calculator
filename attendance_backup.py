@@ -134,6 +134,9 @@ if __name__ == "__main__" :
     root = Tk()
     
     root.title("Attendance Calculator")
+    
+    # opening in Command Line Interface
+    root.minsize(height = 250, width = 280)
 
     # declare Frame as f
     f = Frame(root, height = 290, width = 350)
@@ -200,3 +203,5 @@ if __name__ == "__main__" :
     b4.grid(row=8, column=2)
     b4.bind("<Enter>", on_enterB4)
     b4.bind("<Leave>", on_leave)
+    
+    root.mainloop()
