@@ -13,5 +13,9 @@ An Attendance calculator that can calculate your future percentage if you follow
   5. Has a good user interface.
  
 ## Images
-
-  
+ ### 1.Calculating normal attendance
+![GAME INTERFACE](https://raw.githubusercontent.com/rajdeep099/cuims-attendance/master/Img1.png)
+ ### 2.checking number of lectures required to reach desired atendance percentile  
+ ![GAME INTERFACE](https://raw.githubusercontent.com/rajdeep099/cuims-attendance/master/Img2.png)
+  #### 2.1.when we are following a particular pattern of present and absenting lectures
+  ![GAME INTERFACE](https://raw.githubusercontent.com/rajdeep099/cuims-attendance/master/Img3.png)
